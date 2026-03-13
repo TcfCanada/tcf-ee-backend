@@ -56,13 +56,15 @@ RÈGLES CRITIQUES :
 - Niveau estimé A1 à C2
 
 FORMAT DE SORTIE (JSON UNIQUEMENT) :
+
 {
   "note_sur_20": 0,
   "niveau_estime": "A1-C2",
   "points_forts": [],
   "points_faibles": [],
   "axes_amelioration": [],
-  "correction_detaillee": "",
+  "correction_detaillee": "Commentaires sur les erreurs",
+  "texte_corrige": "Réécriture complète et corrigée du texte du candidat",
   "feedback_pedagogique": ""
 }
 
